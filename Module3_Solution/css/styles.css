@@ -1,0 +1,53 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+  background-color: #8a3636;
+}
+.navbar-brand p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 1.5em;
+  color: #000;
+}
+#nav-header{
+  background-color: #ffd900;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-header button.navbar-toggle,.icon-bar {
+  border: 1px solid #61122f;
+}
+
+#nav-list{
+  font-size: 1.5em;
+  font-family: 'Lora', serif;
+  text-align: center;
+ 
+}
+#nav-list a{
+  width: 100%;
+  color: #000;
+  padding: 2px;
+}
+#menu{
+  margin-top:0;
+  padding-bottom: 5%;
+}
+
+#main-contents h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#mainu-container h1{
+  font-size: 2em;
+}
+#mainu-container section{
+ background-color: grey;
+ padding:0px 15px;
+}
+#mainu-container p{
+  text-align:justify ;
+  text-overflow: auto;
+ 
+}
